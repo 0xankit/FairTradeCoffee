@@ -6,7 +6,7 @@ This repository containts an Ethereum DApp that demonstrates a Supply Chain flow
 
 ![Coffee-Activity-Diagram](uml/coffeeActivity.png)
 
-![Coffee-Sequence-Diagram](uml/CoffeeSequence.png)
+![Coffee-Sequence-Diagram](uml/coffeeSequence.png)
 
 ![Coffee-State-Diagram](uml/CoffeeState.png)
 
