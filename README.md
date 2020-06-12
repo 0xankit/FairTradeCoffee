@@ -32,7 +32,11 @@ These instructions will get you a copy of the project up and running on your loc
 Please make sure you've already installed ganache-cli, Truffle and enabled MetaMask extension in your browser.
 
 ```
-Give examples (to be clarified)
+* Truffle v4.1.14 (core: 4.1.14)
+* Solidity v0.4.24 (solc-js)
+* Ganache CLI v6.9.1 (ganache-core: 2.10.2)
+* MetaMask Version 7.7.9
+* NodeJs Version v12.13.1
 ```
 
 ### Installing
